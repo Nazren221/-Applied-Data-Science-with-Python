@@ -1,1 +1,2 @@
-# -Applied-Data-Science-with-Python
+# This is specialization course from COURSERA. 
+I will share my assignments' codes in here
